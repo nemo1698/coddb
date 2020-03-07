@@ -513,7 +513,7 @@ fopen(name, m)
 	
 	for(i=0; i<level._files.size; i++)
 	{
-		if( name == level._files[ i ][ "name" ])
+		if( name == level._files[ i ][ "path" ])
 		{
 			return i;
 		}
