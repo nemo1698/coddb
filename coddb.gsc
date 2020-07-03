@@ -4,6 +4,7 @@
 // 1.1
 //
 // bugfix: file in use fixed ( if the dbfile in use, the operation added to queue )
+// +query function
 // ______________________________________________
 // 1.0
 //
